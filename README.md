@@ -1,6 +1,6 @@
-work samples:
-•	https://scott-mitchell-dev.github.io/funhouse/
-•	https://scott-mitchell-dev.github.io/flexbox/
+- work samples:
+   - https://scott-mitchell-dev.github.io/funhouse/
+   - https://scott-mitchell-dev.github.io/flexbox/
 
 - 👋 Hi, I’m @scott-mitchell-dev
 - 👀 I’m interested in *paid* web development via remotely or in Harlingen, Texas area
