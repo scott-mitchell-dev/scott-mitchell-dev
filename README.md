@@ -1,7 +1,7 @@
 - work samples:
    - https://scott-mitchell-dev.github.io/funhouse/
    - https://scott-mitchell-dev.github.io/flexbox/
-   - https://scott-mitchell-dev/display-property/
+   - https://scott-mitchell-dev.github.io/display-property-uses/
 
 - 👋 Hi, I’m @scott-mitchell-dev
 - 👀 I’m interested in *paid* web development via remotely or in Brownsville, Texas area
